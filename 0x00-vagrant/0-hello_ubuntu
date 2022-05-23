@@ -1,0 +1,3 @@
+linux
+a command-line utility that prints basic information about the operating system name and system hardware
+display all system information such as the OS name, version, and Kernel release. 
